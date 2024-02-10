@@ -3,10 +3,10 @@
 # FRONTEND DEL PROYECTO FINAL DE JÓVENES A PROGRAMAR - GRUPO 267 - SUB GRUPO 3
 
 Para trabajar en este proyecto deberás realizar lo siguiente:
-1- Abre la terminal y ejecuta el comando `git clone https://github.com/clissic/workspace-JAP.git` para clonar el repositorio.
+1- Abre la terminal y ejecuta el comando `git clone https://github.com/molinanicolas30/e-commerce_JAP.git` para clonar el repositorio.
 
 ```sh
-git clone https://github.com/clissic/workspace-JAP.git
+git clone https://github.com/molinanicolas30/e-commerce_JAP.git
 ```
 
 2- Para trabajar con la API de Jóvenes a Programar, mantenerse en la rama `master`. En caso de querer trabajar con la API realizada por el Sub Grupo 3 trabajar con la rama `entrega8`.
@@ -27,7 +27,7 @@ git pull origin entrega8
 1- Para poder ejecutar el FRONTEND con la API creada por el Sub Grupo 3 se deberá descargar (clonar) el proyecto del BACKEND:
 
 ```sh
-git clone https://github.com/clissic/workspace-JAP-backend.git
+git clone https://github.com/molinanicolas30/e-commerce_JAP.git
 ```
 
 2- Ejecutar el comando `npm install`, el cual instalará todas las dependencias del proyecto. Sin este paso no podrás trabajar.
